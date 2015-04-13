@@ -1,0 +1,22 @@
+
+result of size=1000:
+
+sort(): 0 seconds
+v1/v2 are different.
+insertion_sort(): 0.01 seconds
+v1/v2 are the same.
+
+result of size=10000:
+
+sort(): 0 seconds
+v1/v2 are different.
+insertion_sort(): 1.28 seconds
+v1/v2 are the same.
+
+resut of size =100000:
+
+sort(): 0.04 seconds
+v1/v2 are different.
+insertion_sort(): 128.61 seconds
+v1/v2 are the same.
+
